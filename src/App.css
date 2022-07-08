@@ -36,3 +36,92 @@
     transform: rotate(360deg);
   }
 }
+
+
+.selectedColorBox{
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 10px;
+
+  
+}
+
+.guessColorBox{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.guessColorBox_div{
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  cursor: pointer;
+}
+
+.overlaytext{
+  color: white; 
+  mix-blend-mode: difference;
+}
+
+.myCard{
+  width: 100px;
+  height: 100px;
+  border: 1px solid black;
+  margin: 10px;
+  cursor: pointer;
+}
+.visited_by_player1{
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  color: white;
+  cursor: pointer;
+  background-color: #1C8D73;
+  font-size: 14px;
+}
+.visited_by_player2{
+  height: 50px;
+  width: 50px;
+  border: 1px solid black;
+  color: white;
+  cursor: pointer;
+  background-color: #E07C24;
+  font-size: 14px;
+}
+
+
+.nonVisited{
+  height: 50px;
+  width: 50px;
+  border: 1px solid white;
+  color: white;
+  cursor: pointer;
+  background-color: black;
+}
+
+.visited_nodes{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 5px;
+  font-size: 14px;
+}
+
+.chota_card_1{
+  border:1px solid #1C8D73;
+  padding:15px;
+  border-radius:5px;
+  margin:5px;
+}
+
+.chota_card_2{
+  border:1px solid #E07C24;
+  padding:15px;
+  border-radius:5px;
+  margin:5px;
+}
