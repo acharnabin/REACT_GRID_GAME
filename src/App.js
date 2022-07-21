@@ -3,10 +3,12 @@ import "./App.css";
 import { memo, useEffect, useRef, useState, useTransition } from "react";
 import { useDispatch, useSelector } from "react-redux";
 import Level1 from "./component/Level1";
+import Test from "./component/Test";
 import Level2 from "./component/Level2";
 import ReactPlayer from "react-player";
 import jwt_decode from "jwt-decode";
 import moment from "moment";
+import TestKonva from "./component/Konva/TestKonva";
 
 let url='https://admin-brainflix.dedicateddevelopers.us/api/'
 
@@ -61,7 +63,8 @@ function App() {
 
       <button onClick={handleSkip}>Skip</button> */}
 
-      <Level2 />
+      {/* <Level2 /> */}
+   <TestKonva/>
     </div>
   );
 }

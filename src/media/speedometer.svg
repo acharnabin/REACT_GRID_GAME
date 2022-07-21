@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="480" height="181" viewBox="0 0 480 181">
+  <defs>
+    <clipPath id="clip-path">
+      <ellipse id="Эллипс_598" data-name="Эллипс 598" cx="81.5" cy="89.5" rx="81.5" ry="89.5" transform="translate(1799.5 1097.893)"/>
+    </clipPath>
+    <filter id="Эллипс_46" x="132" y="-27" width="217" height="217" filterUnits="userSpaceOnUse">
+      <feOffset input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="10" result="blur"/>
+      <feFlood flood-color="#4e4e4e"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="Speedometer" transform="translate(-1640.5 -1097.893)">
+    <path id="Mount" d="M127.848,310.47a14.873,14.873,0,0,1-8.748-13.544,82.545,82.545,0,0,0-2.326-20.164c-8.461-35-39.051-61.053-74.978-63.5a83.126,83.126,0,0,0-88.933,82.921v.16a15.547,15.547,0,0,1-8.777,14.124h-148.4v83.368h480V310.47Z" transform="translate(1844.817 885.055)"/>
+    <g id="Shadow_with_mask" data-name="Shadow with mask" clip-path="url(#clip-path)">
+      <g transform="matrix(1, 0, 0, 1, 1640.5, 1097.89)" filter="url(#Эллипс_46)">
+        <circle id="Эллипс_46-2" data-name="Эллипс 46" cx="78.5" cy="78.5" r="78.5" transform="translate(162 3)"/>
+      </g>
+    </g>
+    <circle id="Center" cx="52.5" cy="52.5" r="52.5" transform="translate(1828.5 1126.893)" fill="#333"/>
+  </g>
+</svg>

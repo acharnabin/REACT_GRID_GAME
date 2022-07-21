@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="50" viewBox="0 0 50 50">
+  <g id="Player_s_location" data-name="Player&apos;s location" transform="translate(-166 -666)">
+    <g id="Эллипс_656" data-name="Эллипс 656" transform="translate(166 666)" fill="rgba(0,0,0,0.6)" stroke="#000" stroke-width="2">
+      <circle cx="25" cy="25" r="25" stroke="none"/>
+      <circle cx="25" cy="25" r="24" fill="none"/>
+    </g>
+    <g id="Эллипс_657" data-name="Эллипс 657" transform="translate(181 681)" stroke="#fff" stroke-width="2">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="11" fill="none"/>
+    </g>
+  </g>
+</svg>

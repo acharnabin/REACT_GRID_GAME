@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="51.246" height="42.333" viewBox="0 0 51.246 42.333">
+  <g id="RFB" transform="translate(0 0)">
+    <path id="Контур_11131" data-name="Контур 11131" d="M0,0H42.333V42.333H0Z" transform="translate(0 0)" fill="#050"/>
+    <path id="Контур_11129" data-name="Контур 11129" d="M2,42.333H-2V0H2Z" transform="translate(39.891 0)" fill="#af5"/>
+    <path id="Контур_11130" data-name="Контур 11130" d="M2,42.333H-2V0H2Z" transform="translate(3.256 0)" fill="#af5"/>
+    <circle id="Water" cx="8.655" cy="8.655" r="8.655" transform="translate(30.936 13.026)" fill="#ff0"/>
+    <path id="Water_-_Рамка" data-name="Water - Рамка" d="M8.655,0A8.655,8.655,0,1,0,17.31,8.655,8.655,8.655,0,0,0,8.655,0m0-3A11.655,11.655,0,0,1,20.31,8.655,11.655,11.655,0,0,1,8.655,20.31,11.655,11.655,0,0,1-3,8.655,11.655,11.655,0,0,1,8.655-3Z" transform="translate(30.936 13.026)"/>
+  </g>
+</svg>
